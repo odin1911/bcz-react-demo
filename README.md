@@ -15,7 +15,7 @@ npm run start
 npm i axios react-query antd styled-components msw
 ```
 
-## 项目用到的 npm 包
+## npm 包
 
 [axios](https://axios-http.com/zh/docs/api_intro)，网络请求库，方便写 xhr
 
@@ -26,3 +26,5 @@ npm i axios react-query antd styled-components msw
 [styled-components](https://styled-components.com/docs)，CSS in JS 库，方便写样式
 
 [msw](https://mswjs.io/docs/getting-started)，mock 服务，方便前端开发，不方便接入真实数据时可用
+
+[eBay/nice-modal-react](https://github.com/ebay/nice-modal-react?tab=readme-ov-file)

@@ -31,9 +31,11 @@ npm i axios react-query antd styled-components msw
 
 ## vscode extensions
 
+```
 styled-components.vscode-styled-components
 ChakrounAnas.turbo-console-log
 jasonnutter.search-node-modules
 oderwat.indent-rainbow
 vincaslt.highlight-matching-tag
 dbaeumer.vscode-eslint
+```

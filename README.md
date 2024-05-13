@@ -28,3 +28,12 @@ npm i axios react-query antd styled-components msw
 [msw](https://mswjs.io/docs/getting-started)，mock 服务，方便前端开发，不方便接入真实数据时可用
 
 [eBay/nice-modal-react](https://github.com/ebay/nice-modal-react?tab=readme-ov-file)
+
+## vscode extensions
+
+styled-components.vscode-styled-components
+ChakrounAnas.turbo-console-log
+jasonnutter.search-node-modules
+oderwat.indent-rainbow
+vincaslt.highlight-matching-tag
+dbaeumer.vscode-eslint
